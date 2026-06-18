@@ -37,17 +37,3 @@ The **Support Vector Classifier (SVC)** was evaluated using standard classificat
 | **Macro Average** | 0.83 | 0.77 | 0.79 | 48 |
 | **Weighted Average** | 0.83 | 0.83 | 0.83 | 48 |
 
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install pandas numpy scikit-learn seaborn matplotlib
-   ```
-3. Run the notebook in VS Code or Jupyter:
-   ```bash
-   jupyter notebook loan_prediction.ipynb
-   ```
