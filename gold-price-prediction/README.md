@@ -16,4 +16,4 @@ Development Environment: VS Code / Jupyter Notebook
 
 📊 The Dataset
 
-The dataset contains historical daily trading records for the Gold Shares ETF (GLD). The core columns utilized during preprocessing include:Date: The chronological timeline of trading days.GLD_Price: The daily closing asset price used as our primary modeling target.Engineered Features:Price_Yesterday (.shift(1)): Previous day closing price.Price_2_Days_Ago (.shift(2)): Closing price from two trading sessions prior.Technical trend components such as rolling windows and moving standard deviations.
+The dataset contains historical daily trading records for the Gold Shares ETF (GLD). The core columns include Date , SPX , GLD , USO , SLV , EUR/USD . 
