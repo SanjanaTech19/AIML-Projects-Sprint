@@ -9,7 +9,7 @@ Predicting retail sales is highly challenging due to shifting consumer behavior,
 Dataset 
 
 Big Mart Sales Dataset 
-Key Features: Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility, Item_Type, Item_MRP, Outlet_Identifier, Outlet_Size, Outlet_Esatablishment_Year, Outlet_Location_Type, Outlet_Type, Item_Outlet_sales
+Key Features: Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility, Item_Type, Item_MRP, Outlet_Identifier, Outlet_Size, Outlet_Esatablishment_Year, Outlet_Location_Type, Outlet_Type, Item_Outlet_sales,
 Target Variable: Item_Outlet_Sales
 
 Tools & Libraries Used
