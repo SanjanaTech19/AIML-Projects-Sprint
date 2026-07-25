@@ -1,6 +1,6 @@
 # AI & Machine Learning Repository
 
-Welcome to my central repository for Artificial Intelligence and Machine Learning projects. This space serves as a portfolio demonstrating practical applications of deep learning, classical machine learning, and data science workflows.
+Welcome to my central repository for Basic Artificial Intelligence and Machine Learning projects. This space serves as a portfolio demonstrating practical applications of deep learning, classical machine learning, and data science workflows.
 
 ## 🧠 Core Competencies Covered
 
