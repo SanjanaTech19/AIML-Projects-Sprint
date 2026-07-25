@@ -15,7 +15,6 @@ Welcome to my central repository for Artificial Intelligence and Machine Learnin
 * **Data & Math:** Pandas, NumPy, SciPy
 * **Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn, XGBoost, LightGBM
-* **Deep Learning:** PyTorch, TensorFlow, Hugging Face Transformers
 
 ## 🛑 Data Notice
 To keep this repository lightweight, large raw datasets (`.csv`, `.json`, `.parquet`) and trained model weights (`.pt`, `.pkl`, `.h5`) are excluded via `.gitignore`. Links to public data sources or instructions on how to download the data are provided within each individual project folder.
